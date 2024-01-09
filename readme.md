@@ -11,7 +11,7 @@ Projectile System: Engage in battles with a projectile system for shooting and s
 
 ### How to Play
 
-Join the Game:
+## Join the Game Directly on: https://arenagame-mggk.onrender.com/
 
 Open the game URL.
 Enter a username and click "Start!" to join the game.
